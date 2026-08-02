@@ -1,0 +1,10 @@
+# Frontend
+Frontend/url-shortener/node_modules/
+Frontend/url-shortener/.env
+
+# Backend
+Backend/.data/
+Backend/api/.env
+
+# OS
+.DS_Store
